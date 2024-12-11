@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yzuiQUs5CyE=",
+  "dgSpecHash": "9qEniLk2EXs=",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Application\\FFeti.GoldenRaspberryAwards.Application.csproj",
+  "projectFilePath": "C:\\Estudo\\MovieListAward\\final\\goldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Application\\FFeti.GoldenRaspberryAwards.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio.ferreira.feti\\.nuget\\packages\\fluentresults\\3.16.0\\fluentresults.3.16.0.nupkg.sha512",
     "C:\\Users\\fabio.ferreira.feti\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

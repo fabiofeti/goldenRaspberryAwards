@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FFeti.GoldenRaspberryAwards.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfd14b1fd5760c9858289f1cbd81462b08153388")]
 [assembly: System.Reflection.AssemblyProductAttribute("FFeti.GoldenRaspberryAwards.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FFeti.GoldenRaspberryAwards.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

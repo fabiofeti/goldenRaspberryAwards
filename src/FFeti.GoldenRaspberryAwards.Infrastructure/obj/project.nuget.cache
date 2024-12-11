@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpqS4iXQA0s=",
+  "dgSpecHash": "fUrXcoCefe0=",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Infrastructure\\FFeti.GoldenRaspberryAwards.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Estudo\\MovieListAward\\final\\goldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Infrastructure\\FFeti.GoldenRaspberryAwards.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio.ferreira.feti\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\fabio.ferreira.feti\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

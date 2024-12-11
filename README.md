@@ -28,5 +28,11 @@ O projeto está estruturado da seguinte forma:
 1. Clone o repositório para sua máquina local.
    bash
    git clone https://github.com/fabiofeti/goldenRaspberryAwards
-   cd goldenRaspberryWard
+   cd goldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Api
    dotnet run
+2. Acesse o Swagger em http://localhost:5294/swagger/index.html
+ ou execute diretamente o Curl abaixo:
+   bash
+   curl -X 'GET' \
+  'http://localhost:5294/api/v1/movies/awards-winners' \
+  -H 'accept: */*

@@ -7,21 +7,16 @@ using FFeti.GoldenRaspberryAwards.Api.OpenApi;
 using FFeti.GoldenRaspberryAwards.Application;
 using FFeti.GoldenRaspberryAwards.Infrastructure.Data;
 using FFeti.GoldenRaspberryAwards.Infrastructure.Data.Database;
-using Serilog;
+
 public class Program
 {
     private static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        builder.Host.UseSerilog((context, loggerConfig) =>
-            loggerConfig.ReadFrom.Configuration(context.Configuration));
-       
+              
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
-
-        //var connectionString = builder.Configuration.GetConnectionString("MoviesConnection");
-        //builder.Services.AddDbContext<GoldenRaspberryDbContext>(options => options.UseSqlite(connectionString));
 
         builder.Services
             .AddApplication()

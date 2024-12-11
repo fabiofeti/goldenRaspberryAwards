@@ -12,7 +12,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DB8BC99-49B9-4146-A826-7622206A96F5}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		.gitignore = .gitignore
 		Directory.Build.props = Directory.Build.props
+		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - API", "1 - API", "{573789BE-2EC4-46B2-A7D7-D41D9E092F63}"
@@ -29,7 +32,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFeti.GoldenRaspberryAwards
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Tests", "5 - Tests", "{3907FE10-6859-4802-A004-BEF469D8EE9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Test", "src\GoldenRaspberryAwards.Test\GoldenRaspberryAwards.Test.csproj", "{1CB2A199-E40C-4DD2-9154-ED1450BDF636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldenRaspberryAwards.Test", "src\GoldenRaspberryAwards.Test\GoldenRaspberryAwards.Test.csproj", "{1CB2A199-E40C-4DD2-9154-ED1450BDF636}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
