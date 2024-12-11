@@ -20,10 +20,10 @@ O projeto está estruturado da seguinte forma:
 - **MapEndPoints**: Contém os endpoints da API.
 - **Application**: Contém a lógica de negócio da aplicação.
 - **Domains**: Contém as entidades do domínio.
-- **Infrastrucutre**: Contém o contexto do banco de dados e o contexto do CSV.
+- **Infrastructure**: Contém o contexto do banco de dados e o contexto do CSV.
 - **Tests**: Contém os testes de integração.
 
-## Executando o Projecto
+## Instruções para execução
 
 1. Clone o repositório para sua máquina local.
    bash
