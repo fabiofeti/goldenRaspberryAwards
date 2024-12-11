@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FFeti.GoldenRaspberryAwards.Api.props" />
+</Project>

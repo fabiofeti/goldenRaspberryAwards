@@ -1,0 +1,6 @@
+{
+  "FFeti.GoldenRaspberryAwards.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Api",
+  "FFeti.GoldenRaspberryAwards.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Application",
+  "FFeti.GoldenRaspberryAwards.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Domain",
+  "FFeti.GoldenRaspberryAwards.Infrastructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\MovieListAward\\GoldenRaspberryAwards\\GoldenRaspberryAwards\\src\\FFeti.GoldenRaspberryAwards.Infrastructure"
+}

@@ -1,0 +1,11 @@
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\bin\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.deps.json
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\bin\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.dll
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\bin\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.pdb
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.AssemblyInfoInputs.cache
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.AssemblyInfo.cs
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.csproj.CoreCompileInputs.cache
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.dll
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\refint\FFeti.GoldenRaspberryAwards.Domain.dll
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\FFeti.GoldenRaspberryAwards.Domain.pdb
+C:\Estudo\MovieListAward\GoldenRaspberryAwards\GoldenRaspberryAwards\src\FFeti.GoldenRaspberryAwards.Domain\obj\Debug\net8.0\ref\FFeti.GoldenRaspberryAwards.Domain.dll
